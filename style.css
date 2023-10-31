@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+#about {
+  padding-top: 8rem;
+}
+
+#projects {
+  padding-top: 8rem;
+}
+
+/* atau bisa menggunakan section untuk mengganti mengatur id di atas */
+/* 
+section{
+  padding: 8rem;
+} 
+*/
